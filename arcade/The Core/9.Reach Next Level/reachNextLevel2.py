@@ -1,0 +1,1 @@
+reachNextLevel = lambda experience, threshold, reward : experience + reward >= threshold
