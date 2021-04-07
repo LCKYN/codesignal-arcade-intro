@@ -1,4 +1,11 @@
 - [ ] The Journey Begins
-  - [x] add
-  - [x] centuryFromYear
-  - [ ] checkPalindrome
+  - [x] 1.add
+  - [x] 2.centuryFromYear
+  - [ ] 3.checkPalindrome
+- [ ] Edge of the Ocean
+  - [ ] 4.adjacentElementsProduct
+  - [ ] 5.shapeArea
+  - [ ] 6.Make Array Consecutive 2
+  - [ ] 7.almostIncreasingSequence
+  - [ ] 8.matrixElementsSum
+- [ ] Smooth Sailing
