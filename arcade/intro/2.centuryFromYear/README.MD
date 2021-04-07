@@ -1,5 +1,5 @@
 `centuryFromYear.py`
-
+---
 ```python
 def centuryFromYear(year):
     res = year // 100
@@ -26,8 +26,6 @@ ex.
 
 From the example which some results are less than the answer by 1 century. When two last digit, not equal zero
 
-That why I added
-
 ```python
 if year % 100 != 0:
     res += 1
@@ -43,10 +41,10 @@ then
 (101 to 199) / 100 = 1 + 1 ✅
 ```
 
-Now, all correct
+🥳🥳 Now, all correct 🥳🥳
 
 `centuryFromYear2.py`
-
+---
 ```python
 def centuryFromYear(year):
     return (year + 99) // 100
@@ -70,3 +68,5 @@ The first years divide by 100 equal 1 is 100 and last years divide by 100 equal 
 |100|1 ✅|1|(100 + 99) / 100 = 1 ✅|
 
 That why I shifted year by 99.
+
+🥳🥳 Now, all correct 🥳🥳
