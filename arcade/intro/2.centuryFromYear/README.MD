@@ -21,7 +21,8 @@ Given a year, return the century it is in. The first century spans from the year
   * Guaranteed constraints:
     * `1 ≤ year ≤ 2005`.
 * [**output**] integer
-  * The number of the century the year is in.
+
+    The number of the century the year is in.
 
 ---
 

@@ -18,7 +18,8 @@ Write a function that returns the sum of two numbers.
   * Guaranteed constraints:
     * `-1000 ≤ param1 ≤ 1000`.
 * [**output**] integer
-  * The sum of the two inputs.
+  
+  The sum of the two inputs.
 
 ---
 
