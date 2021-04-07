@@ -1,5 +1,6 @@
 # codesignal
 
+```
 ├── Company Challenges
 ├── Interview Practice
 │   ├── Bits
@@ -17,3 +18,4 @@
     └── The Core
         ├── Corner of 0s and 1s
         ├── Intro Gates
+```
