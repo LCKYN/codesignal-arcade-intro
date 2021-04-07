@@ -1,0 +1,22 @@
+- [ ] Meet Python
+  - [ ] 1. Collections Truthness
+  - [ ] 2. Efficient Comparison
+  - [ ] 3. Special Conditional
+  - [ ] 4. Language Differences
+  - [ ] 5. Count Bits
+  - [ ] 6. Modulus
+  - [ ] 7. Simple Sort
+  - [ ] 8. Base Conversion
+  - [ ] 9. Mex Function
+  - [ ] 10. List Beautifier
+- [ ] Slithering in Strings
+  - [ ] 11. String Definition
+  - [ ] 12. Fix Message
+  - [ ] 13. Cat Walk
+  - [ ] 14. Convert Tabs
+  - [ ] 15. Feedback Review
+  - [ ] 16. Is Word Palindrome
+  - [ ] 17. Permutation Cipher
+  - [ ] 18. Competitive Eating
+  - [ ] 19. New Style Formatting
+  - [ ] 20. Get Commit

@@ -1,12 +1,12 @@
-- 1.add
+- [x] 1.add
   - Difficulties : `Easy`
   - Type : `Codewritin`
   - Score : `300`
-- 2.centuryFromYear
+- [x] 2.centuryFromYear
   - Difficulties : `Easy`
   - Type : `Codewritin`
   - Score : `300`
-- 3.checkPalindrome
+- [ ] 3.checkPalindrome
   - Difficulties : `Easy`
   - Type : `Codewritin`
   - Score : `300`
