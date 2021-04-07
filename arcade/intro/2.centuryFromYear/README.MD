@@ -26,7 +26,7 @@ ex.
 
 From the example which some results are less than the answer by 1 century. When two last digit, not equal zero
 
-that why I added
+That why I added
 
 ```python
 if year % 100 != 0:
@@ -58,18 +58,6 @@ Same problem as `centuryFromYear.py` but in this solve. Just shift the year to t
 
 The first years divide by 100 equal 1 is 100 and last years divide by 100 equal 1 is 199 but, 1st century began with 1 AD and ended with 100 AD
 
-```
-	year	divide by 100	  century		 (year +  99) divide by 100
-	   1                0 ❌   	   1                 (1 + 99) / 100 = 1 ✅
-	   2                0 ❌   	   1                 (2 + 99) / 100 = 1 ✅
-	   3                0 ❌ 	   1                 (3 + 99) / 100 = 1 ✅
-	[...]
-	  97                0 ❌   	   1                (97 + 99) / 100 = 1 ✅
-	  98                0 ❌   	   1                (97 + 99) / 100 = 1 ✅
-	  99                0 ❌   	   1                (97 + 99) / 100 = 1 ✅
-	 100                1 ✅   	   1               (100 + 99) / 100 = 1 ✅
-```
-
 |year	|divide by 100	  |century		| (year +  99) divide by 100|
 |:---|:---|:---|:---|
 |1|0 ❌|1|(1 + 99) / 100 = 1 ✅|
@@ -80,3 +68,5 @@ The first years divide by 100 equal 1 is 100 and last years divide by 100 equal 
 |98|0 ❌|1|(97 + 99) / 100 = 1 ✅|
 |99|0 ❌|1|(97 + 99) / 100 = 1 ✅|
 |100|1 ✅|1|(100 + 99) / 100 = 1 ✅|
+
+That why I shifted year by 99.
