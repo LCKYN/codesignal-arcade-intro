@@ -52,7 +52,7 @@ from: <https://en.wikipedia.org/wiki/Century>
 (101 to 199) / 100 = 1 ❌
 ```
 
-From the example which some results are less than the answer by 1 century. When last two digit, not equal zero
+From the example which some results are less than the answer by 1 century. When last two digit, not equal zero. That why I add 
 
 ```python
 if year % 100 != 0:
