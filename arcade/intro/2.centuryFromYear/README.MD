@@ -33,7 +33,7 @@ if year % 100 != 0:
     res += 1
 ```
 
-If two last digit is not zero add result by 1.
+If the last two digits are not zero then add the result by 1.
 
 then
 
