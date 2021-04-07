@@ -22,7 +22,7 @@ Given a year, return the century it is in. The first century spans from the year
     * `1 ≤ year ≤ 2005`.
 * [**output**] integer
 
-    The number of the century the year is in.
+    The number of the century the `year` is in.
 
 ---
 
@@ -43,7 +43,7 @@ from: <https://en.wikipedia.org/wiki/Century>
 
 "The 1st century AD began with 1 AD and ended with 100 AD" but divide years by 100 is not right at all.
 
-ex.
+**ex.**
 
 ```
     years divide by 100 equal century

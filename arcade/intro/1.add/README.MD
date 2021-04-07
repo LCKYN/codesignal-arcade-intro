@@ -34,4 +34,4 @@ def add(param1, param2):
 def add(param1, param2):
     return param1 + param2
 ```
-Just sum param1 and param2 and return.
+Just sum `param1` and `param2` and return.

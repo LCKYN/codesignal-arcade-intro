@@ -1,0 +1,4 @@
+- [ ] The Journey Begins
+  - [x] add
+  - [x] centuryFromYear
+  - [ ] checkPalindrome
