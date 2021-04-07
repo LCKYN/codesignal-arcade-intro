@@ -1,3 +1,30 @@
+# centuryFromYear
+
+Given a year, return the century it is in. The first century spans from the year 1 up to and including the year 100, the second - from the year 101 up to and including the year 200, etc.
+
+## Example
+
+* For `year = 1905`, the output should be 
+  
+    `centuryFromYear(year) = 20`;
+
+* For `year = 1700`, the output should be 
+  
+    `centuryFromYear(year) = 17`;
+
+## Input/Output
+* [**execution time limit**] 4 seconds (py3)
+* [**input**] integer `year` 
+
+    A positive integer, designating the year.
+
+  * Guaranteed constraints:
+    * `1 ≤ year ≤ 2005`.
+* [**output**] integer
+  * The number of the century the year is in.
+
+---
+
 `centuryFromYear.py`
 ---
 ```python
@@ -8,10 +35,10 @@ def centuryFromYear(year):
     return res
 ```
 
-from: https://en.wikipedia.org/wiki/Century
+from: <https://en.wikipedia.org/wiki/Century>
 
-- A century is a period of 100 years
-- The 1st century AD began with 1 AD and ended with 100 AD, with the same pattern continuing onward.
+>- A century is a period of 100 years
+>- The 1st century AD began with 1 AD and ended with 100 AD, with the same pattern continuing onward.
 
 "The 1st century AD began with 1 AD and ended with 100 AD" but divide years by 100 is not right at all.
 
