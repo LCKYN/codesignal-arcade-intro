@@ -1,0 +1,25 @@
+- [ ] Data Structures
+  - [ ] Arrays(0/5)
+  - [ ] Linked Lists(0/6)
+  - [ ] Hash Tables(0/5)
+  - [ ] Trees: Basic(0/8)
+  - [ ] Heaps, Stacks, Queues(0/7)
+  - [ ] Graphs(0/5)
+  - [ ] Trees: Advanced(0/4)
+- [ ] Sorting & Searching
+  - [ ] Depth-First Search & Breadth-First Search(0/5)
+  - [ ] Backtracking(0/5)
+  - [ ] Sorting(0/7)
+- [ ] Dynamic Programming
+  - [ ] Dynamic Programming: Basic(0/5)
+  - [ ] Dynamic Programming: Advanced(0/5)
+- [ ] Special Topics
+  - [ ] Common Techniques: Basic(0/7)
+  - [ ] Strings(0/6)
+  - [ ] Bits(1/5)
+  - [ ] Common Techniques: Advanced(0/5)
+  - [ ] RegEx(1/4)
+- [ ] Math
+  - [ ] Number Theory(1/5)
+  - [ ] Counting(0/6)
+  - [ ] Geometry(0/5)
