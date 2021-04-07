@@ -17,5 +17,5 @@
     │   └── Slithering in Strings
     └── The Core
         ├── Corner of 0s and 1s
-        ├── Intro Gates
+        └── Intro Gates
 ```
