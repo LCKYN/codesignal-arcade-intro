@@ -24,16 +24,26 @@ ex.
 (101 to 199) / 100 = 1 ❌
 ```
 
-From the example which some result is less than answer by 1 century when two last digit not equal zero
+From the example which some results are less than the answer by 1 century. When two last digit, not equal zero
 
-that why I add
+that why I added
 
 ```python
 if year % 100 != 0:
     res += 1
 ```
 
-if two last digit is not zero add result by 1
+If two last digit is not zero add result by 1.
+
+then
+
+```
+   (1 to 99) / 100 = 0 + 1 ✅
+        100  / 100 = 1     ✅
+(101 to 199) / 100 = 1 + 1 ✅
+```
+
+Now, all correct
 
 `centuryFromYear2.py`
 
@@ -41,3 +51,18 @@ if two last digit is not zero add result by 1
 def centuryFromYear(year):
     return (year + 99) // 100
 ```
+
+Same problem as `centuryFromYear.py` but in this solve. Just shift the year to the correct answer.
+
+"The 1st century AD began with 1 AD and ended with 100 AD"
+
+The first years divide by 100 equal 1 is 100 and last years divide by 100 equal 1 is 199 but, 1st century began with 1 AD and ended with 100 AD
+
+```
+	year	divide by 100	century		diff
+	   1				0		  1		  99
+```
+
+|year| divide by 100|century|diff|
+|---|---|---|---|
+|1|0|1|99
