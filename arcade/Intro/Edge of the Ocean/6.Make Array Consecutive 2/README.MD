@@ -52,16 +52,17 @@ length = 3 (5 - 3 + 1)
 The number of missing numbers will affect the length of the array.
 
 ex.
-```
-min = 3
-max = 5
-missing numbers = [4]
-s = [3, 5]
-
-calculated length = 3 (5 - 3 + 1)
-actual length = 2
-difference = 1
-```
+|attribute|ex.1|ex.2|ex.3|
+|:-- | :--: | :--: | :--: |
+|min|`3`|`3`|`1`|
+|max|`5`|`6`|`4`|
+|missing numbers|`[4]`|`[4, 5]`|`[2]`|
+|s|`[3, 5]`|`[3, 6]`|`[1, 3, 4, 5]`|
+|||||
+|calculated length|`3`|`4`|`5`|
+|actual length|`2`|`2`|`4`|
+|difference|`1`|`2`|`1`|
+<br />
 
 `difference` is equal to the length of `missing numbers` 
 
