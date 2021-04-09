@@ -33,6 +33,7 @@ Ratiorg got `statues` of different sizes as a present from CodeMaster for his bi
 def makeArrayConsecutive2(s):
     return max(s) - min(s) - len(s) + 1 ;
 ```
+<br />
 
 `s = [min, min + 1, min + 2,..., max - 2, max - 1, max]`
 
@@ -61,6 +62,7 @@ ex.
 |||||
 |calculated length|`3`|`4`|`5`|
 |actual length|`2`|`2`|`4`|
+|||||
 |difference|`1`|`2`|`1`|
 <br />
 
