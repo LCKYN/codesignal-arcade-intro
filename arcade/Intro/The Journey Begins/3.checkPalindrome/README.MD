@@ -65,6 +65,8 @@ inputString has length is 7. So half of the length is 3.
 
 Not 4? Because 4 is the middle character in the string. It's always the same as itself. In this case `'d' == 'd'`. Then check three time same as **length is even**
 
+🥳🥳 Now, get the result 🥳🥳
+
 `checkPalindrome2.py`
 
 ---
@@ -77,6 +79,8 @@ def checkPalindrome(s):
 ```
 as same as `checkPalindrome.py`. But bad time complexity than `checkPalindrome.py` because check every single character.
 
+🥳🥳 Now, get the result 🥳🥳
+
 `checkPalindrome3.py`
 ---
 ```python
@@ -85,3 +89,5 @@ def checkPalindrome(s):
 ```
 
 as same as `checkPalindrome2.py`. Just use slicing(`[start, stop, step]`). `step` is `-1`(`[::-1]`) means reversed it.
+
+🥳🥳 Now, get the result 🥳🥳

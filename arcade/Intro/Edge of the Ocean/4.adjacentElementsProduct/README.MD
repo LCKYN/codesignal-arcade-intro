@@ -38,3 +38,7 @@ def adjacentElementsProduct(a):
     
     return res
 ```
+
+Algorithms applied from function `findMax()`. First of all set `res`(result) equal the product of the first pair of adjacent elements (first and second elements). Next, find next to the product of pair of adjacent elements. if it greater than the previous multiplication set it to `res`(result). until all elements in the array.
+
+🥳🥳 Now, get the result 🥳🥳
