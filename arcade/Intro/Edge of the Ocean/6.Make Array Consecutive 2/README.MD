@@ -68,5 +68,15 @@ ex.
 
 `difference` is equal to the length of `missing numbers` 
 
+therefore
+
+`difference = calculated length - actual length`.
+
+`calculated length = (Minimum value of s) - (Maximum value of s) + 1`.
+
+`actual length = (Length of s)`.
+
+`difference = (Minimum value of s) - (Maximum value of s + 1) - (Length of s)`.
+
 
 🥳🥳 Now, get the result 🥳🥳
