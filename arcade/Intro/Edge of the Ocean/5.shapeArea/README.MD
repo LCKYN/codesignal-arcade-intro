@@ -30,3 +30,8 @@ A `1`-interesting polygon is just a square with a side of length `1`. An `n`-int
 
 `shapeArea.py`
 ---
+
+```python
+def shapeArea(n):
+    return 2*n*n-2*n+1
+```
