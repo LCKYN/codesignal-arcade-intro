@@ -1,12 +1,12 @@
 - [x] 1.add
   - Difficulties : `Easy`
-  - Type : `Codewritin`
+  - Type : `Codewriting`
   - Score : `300`
 - [x] 2.centuryFromYear
   - Difficulties : `Easy`
-  - Type : `Codewritin`
+  - Type : `Codewriting`
   - Score : `300`
 - [x] 3.checkPalindrome
   - Difficulties : `Easy`
-  - Type : `Codewritin`
+  - Type : `Codewriting`
   - Score : `300`
