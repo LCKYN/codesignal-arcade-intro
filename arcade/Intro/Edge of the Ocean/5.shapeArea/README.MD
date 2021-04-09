@@ -109,7 +109,7 @@ Easy way go to [wolframalpha (click here!!)](https://www.wolframalpha.com/input/
 
 :Groping like terms:
 
-(2 * n * n)   +  (4 * n - 6 * n)   +   (1 - 4 + 4)
+(2 * n * n)   +   (4 * n - 6 * n)   +   (1 - 4 + 4)
 
 2 * n * n - 2 * n + 1
 ```
