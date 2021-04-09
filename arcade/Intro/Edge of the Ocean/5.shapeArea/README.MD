@@ -40,13 +40,17 @@ For every n (1 ≤ n <10,000). Middle takes 1 square.
 ```python 
 result = 1
 ```
-Horizontal take 2 (right and left) slots for every n that it increases. Vertical take 2 (top and bottom) slots for every n that it increases. when `n ≥ 2`
+`Horizontal` take 2 (right and left) slots for every n that it increases. 
+
+`Vertical` take 2 (top and bottom) slots for every n that it increases. 
+
+when `n ≥ 2`
 
 ```python 
 result = 1 + 4 * (n - 1)
 ```
 
-Diagonal
+`Diagonal`
 
 `n` = `3` take `(1 * 4)` slots
 
