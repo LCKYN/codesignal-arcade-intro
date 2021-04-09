@@ -84,4 +84,4 @@ def checkPalindrome(s):
     return s == s[::-1]
 ```
 
-as same as `checkPalindrome.py`. Just use slicing(`[start, stop, step]`). `step` is `-1`(`[::-1]`) means reversed it.
+as same as `checkPalindrome2.py`. Just use slicing(`[start, stop, step]`). `step` is `-1`(`[::-1]`) means reversed it.
