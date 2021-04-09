@@ -55,6 +55,13 @@ string
 
 inputString has length is 6. So half of the length is 3. 
 
+
+At the first check. Check between the first element (first a) and the last element (second a). Second check. Check between the 2nd element (first b) and the 5th element (second b).Third check. Check between the 3rd element (first c) and the 4th element (second c). Now the whole string is already check (Why?).
+
+
+...
+
+
 In first check between first element and last((n-1)th) element. Next check between 2nd element and (n-2)th element (if n is length of string and index start at 0). When passed first is unnecessary to continue because it already check. (ex. Check between (n/2 + 1)th element and (n/2 - 1)th element is already checked by check between (n/2 - 1)th element and (n/2 + 1)th element. last time check between last element and first element is already checked by first check)
 First half string is `abc`
 Second half string is `cba`
