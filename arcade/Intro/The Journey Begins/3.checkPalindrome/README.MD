@@ -56,15 +56,7 @@ string
 inputString has length is 6. So half of the length is 3. 
 
 
-At the first check. Check between the first element (first a) and the last element (second a). Second check. Check between the 2nd element (first b) and the 5th element (second b).Third check. Check between the 3rd element (first c) and the 4th element (second c). Now the whole string is already check (Why?).
-
-
-...
-
-
-In first check between first element and last((n-1)th) element. Next check between 2nd element and (n-2)th element (if n is length of string and index start at 0). When passed first is unnecessary to continue because it already check. (ex. Check between (n/2 + 1)th element and (n/2 - 1)th element is already checked by check between (n/2 - 1)th element and (n/2 + 1)th element. last time check between last element and first element is already checked by first check)
-First half string is `abc`
-Second half string is `cba`
+At the first check. Check between the first element (first a) and the last element (second a). Second check. Check between the 2nd element (first b) and the 5th element (second b).Third check. Check between the 3rd element (first c) and the 4th element (second c). Now the whole string is already check (Why?). If stay continues to check. the fourth check will check between the 4th element (second c) and the 3rd element (first c). It's the same as the third check.
 
 **length is odd**
 
@@ -72,10 +64,7 @@ Second half string is `cba`
 
 inputString has length is 7. So half of the length is 3. 
 
-Not 4? Because 4 is the middle character in the string. It's always the same as itself. In this case `'d' == 'd'`
-
-
-
+Not 4? Because 4 is the middle character in the string. It's always the same as itself. In this case `'d' == 'd'`. Then check three time same as **length is even**
 
 
 `checkPalindrome2.py`
