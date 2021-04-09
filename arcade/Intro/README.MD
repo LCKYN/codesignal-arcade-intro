@@ -1,7 +1,7 @@
-- [ ] The Journey Begins
+- [x] The Journey Begins
   - [x] 1.add
   - [x] 2.centuryFromYear
-  - [ ] 3.checkPalindrome
+  - [x] 3.checkPalindrome
 - [ ] Edge of the Ocean
   - [ ] 4.adjacentElementsProduct
   - [ ] 5.shapeArea

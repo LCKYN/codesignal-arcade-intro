@@ -6,7 +6,7 @@
   - Difficulties : `Easy`
   - Type : `Codewritin`
   - Score : `300`
-- [ ] 3.checkPalindrome
+- [x] 3.checkPalindrome
   - Difficulties : `Easy`
   - Type : `Codewritin`
   - Score : `300`
