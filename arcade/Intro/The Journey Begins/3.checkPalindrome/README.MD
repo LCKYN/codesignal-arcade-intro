@@ -44,8 +44,7 @@ def checkPalindrome(s):
 From [<ins>palindrome<ins/>](./PALINDROME.MD)
 > A string that doesn't changed when reversed (it reads the same backward and forward).
 
-just check for each character from the string against the reverse string. But unnecessary to check the whole string because half of the string is the same as the other half
-string
+just check for each character from the string against the reverse string. But unnecessary to check the whole string because half of the string is the same as the other half string. Continue If in condition (palindrome) if not stops checking and returns false(not palindrome).
 
 **ex.**
 
@@ -66,9 +65,7 @@ inputString has length is 7. So half of the length is 3.
 
 Not 4? Because 4 is the middle character in the string. It's always the same as itself. In this case `'d' == 'd'`. Then check three time same as **length is even**
 
-
 `checkPalindrome2.py`
-
 
 ---
 ```python
@@ -78,8 +75,7 @@ def checkPalindrome(s):
             return False
     return True
 ```
-
-bad time complexity than `checkPalindrome.py`
+as same as `checkPalindrome.py`. But bad time complexity than `checkPalindrome.py` because check every single character.
 
 `checkPalindrome3.py`
 ---
@@ -87,3 +83,5 @@ bad time complexity than `checkPalindrome.py`
 def checkPalindrome(s):
     return s == s[::-1]
 ```
+
+as same as `checkPalindrome.py`. Just use slicing(`[start, stop, step]`). `step` is `-1`(`[::-1]`) means reversed it.
