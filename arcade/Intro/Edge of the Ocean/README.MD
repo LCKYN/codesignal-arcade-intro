@@ -2,7 +2,7 @@
   - Difficulties : `Easy`
   - Type : `Codewriting`
   - Score : `300`
-- [ ] 5.shapeArea
+- [x] 5.shapeArea
   - Difficulties : `Easy`
   - Type : `Codewriting`
   - Score : `300`

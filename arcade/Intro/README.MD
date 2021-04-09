@@ -4,7 +4,7 @@
   - [x] 3.checkPalindrome
 - [ ] Edge of the Ocean
   - [x] 4.adjacentElementsProduct
-  - [ ] 5.shapeArea
+  - [x] 5.shapeArea
   - [ ] 6.Make Array Consecutive 2
   - [ ] 7.almostIncreasingSequence
   - [ ] 8.matrixElementsSum
