@@ -6,7 +6,7 @@
   - Difficulties : `Easy`
   - Type : `Codewriting`
   - Score : `300`
-- [ ] 6.Make Array Consecutive 2
+- [x] 6.Make Array Consecutive 2
   - Difficulties : `Easy`
   - Type : `Codewriting`
   - Score : `300`

@@ -5,7 +5,7 @@
 - [ ] Edge of the Ocean
   - [x] 4.adjacentElementsProduct
   - [x] 5.shapeArea
-  - [ ] 6.Make Array Consecutive 2
+  - [x] 6.Make Array Consecutive 2
   - [ ] 7.almostIncreasingSequence
   - [ ] 8.matrixElementsSum
 - [ ] Smooth Sailing
