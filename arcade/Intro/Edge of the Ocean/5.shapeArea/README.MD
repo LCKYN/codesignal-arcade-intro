@@ -88,7 +88,7 @@ result = 1 + 4 * (n - 1) + 4 * ((n - 2) * (n - 1) / 2)
 
 🥳🥳 Now, get the result 🥳🥳
 
-ิbut 
+❗️❗️❗️ but ❗️❗️❗️
 
 😡😡 but the formula is not perfect. 😡😡
 
