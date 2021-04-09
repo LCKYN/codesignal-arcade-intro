@@ -33,3 +33,37 @@ Ratiorg got `statues` of different sizes as a present from CodeMaster for his bi
 def makeArrayConsecutive2(s):
     return max(s) - min(s) - len(s) + 1 ;
 ```
+
+`s = [min, min + 1, min + 2,..., max - 2, max - 1, max]`
+
+therefore
+
+`length = max - min + 1`
+
+ex.
+```
+min = 3
+max = 5
+s = [3, 4, 5]
+
+length = 3 (5 - 3 + 1)
+```
+
+The number of missing numbers will affect the length of the array.
+
+ex.
+```
+min = 3
+max = 5
+missing numbers = [4]
+s = [3, 5]
+
+calculated length = 3 (5 - 3 + 1)
+actual length = 2
+difference = 1
+```
+
+`difference` is equal to the length of `missing numbers` 
+
+
+🥳🥳 Now, get the result 🥳🥳
