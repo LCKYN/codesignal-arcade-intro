@@ -2,11 +2,14 @@
   - Difficulties : `Easy`
   - Type : `Codewriting`
   - Score : `300`
+  - personal thoughts : `😁😁 Good getting started. 😁😁`
 - [x] 2.centuryFromYear
   - Difficulties : `Easy`
   - Type : `Codewriting`
   - Score : `300`
+  - personal thoughts : `🥳🥳 Everything is fine. 🥳🥳`
 - [x] 3.checkPalindrome
   - Difficulties : `Easy`
   - Type : `Codewriting`
   - Score : `300`
+  - personal thoughts : `🍰🍰 A piece of cake 🍰🍰`
