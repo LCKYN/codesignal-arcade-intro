@@ -1,4 +1,4 @@
 def allLongestStrings(inputArray):
-    
-    return (list(filter(lambda x: len(x) == len(max(inputArray, key=len)), inputArray)))
-
+    longestLen = max(len(i) for i in inputArray)
+    allLongest = [i for i in inputArray if longestLen == len(i)]
+    return allLongest
