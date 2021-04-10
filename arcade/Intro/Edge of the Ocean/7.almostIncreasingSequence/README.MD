@@ -99,6 +99,6 @@ second cases:
 The problem is that i+1<sup>th</sup> element. when removing i+1<sup>th</sup> element then
 current element < the next 2 index (i+2<sup>th</sup>) element (still in  `almostIncreasingSequence` condition)
 
-until all elements in the array.
+repeat until all elements in the array.
 
 🥳🥳 Now, get the result 🥳🥳
