@@ -78,3 +78,27 @@ def almostIncreasingSequence(sequence):
 **execution time limit exceeded:** when using O(n<sup>2</sup>) algorithm
 
 `almostIncreasingSequence` is always `true`. when `sequence.length` is 2
+
+Next check, when the first element is greater than the second element . Skip it and count `found` as 1
+
+Next. Finds each element when the current element is greater than the next. Check if non-increasing element has been found before? 
+
+if true, this array is not in the `almostIncreasingSequence` condition
+
+If not, select the elements to remove.
+
+now, there are 2 cases.
+
+first cases:
+
+The problem is that i<sup>th</sup> element. when removing i<sup>th</sup> element then
+previously element < next element (still in  `almostIncreasingSequence` condition)
+
+second cases:
+
+The problem is that i+1<sup>th</sup> element. when removing i+1<sup>th</sup> element then
+current element < the next 2 index (i+2<sup>th</sup>) element (still in  `almostIncreasingSequence` condition)
+
+until all elements in the array.
+
+🥳🥳 Now, get the result 🥳🥳
