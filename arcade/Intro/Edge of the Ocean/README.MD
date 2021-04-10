@@ -18,14 +18,8 @@
   - Type : `Codewriting`
   - Score : `300`
   - personal thoughts : `🤯🤯 not easy at all 🤯🤯`
-- [ ] 8.matrixElementsSum
+- [x] 8.matrixElementsSum
   - Difficulties : `Easy`
   - Type : `Codewriting`
   - Score : `300`
   - personal thoughts : `😇😇 2d array? Happy!! 😇😇`
-
-
-
-
-
-
