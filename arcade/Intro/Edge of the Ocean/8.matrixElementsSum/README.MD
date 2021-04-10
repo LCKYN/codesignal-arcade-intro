@@ -72,3 +72,19 @@ def matrixElementsSum(matrix):
 
     return result
 ```
+
+Find the sum of the values in the elements, column by column, from top to bottom. And stop when the value is equal to zero or all characters in that column
+
+In the first loop, check the column.
+In the inner loop, check the row. break the loop when the value is equal to zero
+
+ex.
+```python
+matrix = [[a, c, b],
+          [d, e, f],
+          [g, h, i]]
+```
+The order is as follows. `a d g c e h b f i`
+
+🥳🥳 Now, get the result 🥳🥳
+

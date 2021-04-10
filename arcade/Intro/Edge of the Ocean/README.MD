@@ -13,7 +13,7 @@
   - Type : `Codewriting`
   - Score : `300`
   - personal thoughts : `😎😎 back to simple 😎😎`
-- [ ] 7.almostIncreasingSequence
+- [x] 7.almostIncreasingSequence
   - Difficulties : `Easy`
   - Type : `Codewriting`
   - Score : `300`
