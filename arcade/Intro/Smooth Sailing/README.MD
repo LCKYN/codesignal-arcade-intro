@@ -7,4 +7,4 @@
   - Difficulties : `Easy`
   - Type : `Codewriting`
   - Score : `300`
-  - personal thoughts : `😗😗 it okay 😗😗`
+  - personal thoughts : `🥸🥸 built-in function 🥸🥸`
