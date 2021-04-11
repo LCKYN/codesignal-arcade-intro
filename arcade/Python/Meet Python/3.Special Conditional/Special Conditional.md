@@ -1,3 +1,0 @@
-```python
-a == not b
-```
