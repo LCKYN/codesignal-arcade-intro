@@ -4,10 +4,12 @@
   - [x] 1.add
   - [x] 2.centuryFromYear
   - [x] 3.checkPalindrome
-- [ ] Edge of the Ocean
+- [x] Edge of the Ocean
   - [x] 4.adjacentElementsProduct
   - [x] 5.shapeArea
   - [x] 6.Make Array Consecutive 2
   - [x] 7.almostIncreasingSequence
-  - [ ] 8.matrixElementsSum
+  - [x] 8.matrixElementsSum
 - [ ] Smooth Sailing
+  - [x] 9.All Longest Strings
+  - [ ] 10.commonCharacterCount

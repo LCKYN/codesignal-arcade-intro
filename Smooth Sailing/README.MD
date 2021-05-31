@@ -1,10 +1,8 @@
-- [ ] 9.All Longest Strings
+- [x] 9.All Longest Strings
   - Difficulties : `Easy`
   - Type : `Codewriting`
   - Score : `300`
-  - personal thoughts : `😗😗 it okay 😗😗`
 - [ ] 10.commonCharacterCount
   - Difficulties : `Easy`
   - Type : `Codewriting`
   - Score : `300`
-  - personal thoughts : `🥸🥸 built-in function 🥸🥸`
