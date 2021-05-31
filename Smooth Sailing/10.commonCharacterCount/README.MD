@@ -12,7 +12,7 @@ Strings have `3` common characters - `2` "a"s and `1` "c".
 
 ## Input/Output
 
-* [**execution time limit**] 3 seconds (java)
+* [**execution time limit**] 3 seconds (py3)
 
 * [**input**] string `s1`
 
@@ -28,7 +28,7 @@ Strings have `3` common characters - `2` "a"s and `1` "c".
   * Guaranteed constraints:
     * `1 ≤ s2.length < 15`.
 
-[**output**] integer
+* [**output**] integer
 
 ---
 
