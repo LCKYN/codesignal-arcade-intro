@@ -16,4 +16,4 @@
   - [ ] [11. isLucky](./Smooth%20Sailing/11.isLucky/)
 - [ ] [Exploring the Waters](./Exploring%20the%20Waters/)
   - [ ] [14. alternatingSums](./Exploring%20the%20Waters/14.alternatingSums/)
-  - [ ] 15. Add Border
+  - [ ] [15. Add Border](./Exploring%20the%20Waters/15.Add%20Border/)
