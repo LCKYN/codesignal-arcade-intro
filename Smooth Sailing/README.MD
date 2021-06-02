@@ -1,8 +1,0 @@
-- [x] 9.All Longest Strings
-  - Difficulties : `Easy`
-  - Type : `Codewriting`
-  - Score : `300`
-- [ ] 10.commonCharacterCount
-  - Difficulties : `Easy`
-  - Type : `Codewriting`
-  - Score : `300`
