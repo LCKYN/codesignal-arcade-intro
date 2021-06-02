@@ -14,3 +14,6 @@
   - [x] [9. All Longest Strings](./Smooth%20Sailing/9.All%20Longest%20Strings/)
   - [ ] [10. commonCharacterCount](./Smooth%20Sailing/10.commonCharacterCount/)
   - [ ] [11. isLucky](./Smooth%20Sailing/11.isLucky/)
+- [ ] [Exploring the Waters](./Exploring%20the%20Waters/)
+  - [ ] [14. alternatingSums](./Exploring%20the%20Waters/14.alternatingSums/)
+  - [ ] 15. Add Border
